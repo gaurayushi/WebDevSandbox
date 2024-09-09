@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Authentication Flow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="header">
+      <img src="assets/regions.jpg" alt="Regions Logo" class="logo">
+      <div class="contain">    
+        <div class="logo-text">
+          <p><b>Regions</b><br>Mortgage</p>
+        </div>
+        <div class="enrollment">
+          <p>Are you a new customer?</p>
+        </div>
+        
+        <div class="enroll-container">
+          <button class="enroll-btn" id="enrollButton">
+            <a href="#" class="enroll">Enroll Now</a>
+          </button>
+          <div class="dropdown-content" id="dropdownMenu">
+            <a href="#">Access Your Login Online</a>
+            <a href="#">Pay Your Mortgage Online</a>
+            <a href="#">View Your Mortgage Statements</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="step" id="step1">
+      <div class="login-form">
+        <h2>Welcome Back</h2>
+        <p class="subtext">Sign in to your Regions MyMortgage account</p>
+        <form>
+          <input type="text" id="onlineID" placeholder="Online ID" required>
+          
+          <!-- Password field with eye icon -->
+          <div class="password-field">
+            <input type="password" id="password" placeholder="Password" required>
+            <span class="eye-icon" id="togglePassword">&#128065;</span>
+          </div>
+
+          <div class="custom-checkbox">
+            <input type="checkbox" id="remember-me">
+            <label for="remember-me" class="check-label">Remember me</label>
+          </div>
+          <button type="submit" id="loginButton">Login</button>
+        </form>
+        <div class="forgot-links">
+          <a href="#" class="link1">Forgot Online ID?</a>
+          <a href="#" class="link2">Forgot Password?</a>
+        </div>
+        <footer>
+          <p>© Regions Mortgage. All rights reserved.</p>
+          <p>Equal Housing Lender</p>
+        </footer>
+      </div>
+
+      <div class="image-container">
+        <img src="assets/homepage.jpg" alt="House Image">
+      </div>
+    </div>
+
+    <div class="thank-you-page" id="thankYouPage">
+      <img src="assets/image.jpeg" alt="Thank You Image" id="thankYouImage">
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
