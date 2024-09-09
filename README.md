@@ -4,7 +4,8 @@
 
 ## Project 1: User Authentication with Transitions
 
-**Live Demo:** [User Authentication Demo](#)
+
+**Live Demo:** [User Authentication Demo](https://66df25d7ac854a3a2aeeaeda--genuine-pixie-506c57.netlify.app/)
 
 ### Purpose
 
