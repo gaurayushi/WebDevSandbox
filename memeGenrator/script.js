@@ -1,4 +1,4 @@
-/// Elements
+// Elements
 const imageInput = document.getElementById('imageInput');
 const memeCanvas = document.getElementById('memeCanvas');
 const addTextButton = document.getElementById('addText');
@@ -17,6 +17,9 @@ let img = new Image();
 let currentFontSize = 20;
 let currentFontStyle = 'Arial';
 let currentTextColor = '#000000';
+
+// Keep track of the currently selected text box
+let selectedTextBox = null;
 
 // History and Redo Stacks
 let historyStack = [];
@@ -42,6 +45,11 @@ function addTextCommand() {
     textBox.textContent = 'Edit Me!';
     textBox.style.left = '50px';
     textBox.style.top = '50px';
+
+    // Set the newly created text box as the selected one
+    textBox.addEventListener('click', () => {
+        selectedTextBox = textBox;
+    });
 
     // Drag logic
     textBox.addEventListener('mousedown', dragStart);
@@ -160,11 +168,45 @@ imageInput.addEventListener('change', (e) => {
 // Add text button event listener
 addTextButton.addEventListener('click', addTextCommand);
 
+// Update font size when buttons are clicked
+increaseFontButton.addEventListener('click', () => {
+    if (selectedTextBox) {
+        currentFontSize += 2;
+        selectedTextBox.style.fontSize = `${currentFontSize}px`;
+        fontSizeDisplay.textContent = `${currentFontSize}px`;
+    }
+});
+
+decreaseFontButton.addEventListener('click', () => {
+    if (selectedTextBox && currentFontSize > 10) {
+        currentFontSize -= 2;
+        selectedTextBox.style.fontSize = `${currentFontSize}px`;
+        fontSizeDisplay.textContent = `${currentFontSize}px`;
+    }
+});
+
+// Update font family
+fontStyleSelect.addEventListener('change', () => {
+    if (selectedTextBox) {
+        currentFontStyle = fontStyleSelect.value;
+        selectedTextBox.style.fontFamily = currentFontStyle;
+    }
+});
+
+// Update text color
+textColorPicker.addEventListener('change', () => {
+    if (selectedTextBox) {
+        currentTextColor = textColorPicker.value;
+        selectedTextBox.style.color = currentTextColor;
+    }
+});
+
+// Download the Meme
 downloadButton.addEventListener('click', () => {
     ctx.clearRect(0, 0, memeCanvas.width, memeCanvas.height);
     ctx.drawImage(img, 0, 0);
 
-    
+    // Draw each text box onto the canvas
     const textBoxes = document.querySelectorAll('.text-box');
     textBoxes.forEach(textBox => {
         const fontSize = window.getComputedStyle(textBox).fontSize;
