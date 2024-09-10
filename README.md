@@ -5,7 +5,7 @@
 ## Project 1: User Authentication with Transitions
 
 
-**Live Demo:** [User Authentication Demo](https://66df25d7ac854a3a2aeeaeda--genuine-pixie-506c57.netlify.app/)
+**Live Demo:** [User Authentication Demo](https://66e0a1bbb77c4f0418e1946e--friendly-llama-12355c.netlify.app/)
 
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master)
 
