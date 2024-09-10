@@ -10,7 +10,6 @@
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master)
 
 
-
 ### Purpose
 
 This project was created to demonstrate the foundational elements of front-end web development, focusing on:
@@ -33,6 +32,49 @@ This project was created to demonstrate the foundational elements of front-end w
 - **CSS3** for styling and responsiveness.
 - **JavaScript (ES6)** for interactivity.
 - **Netlify** for live deployment.
+
+
+
+
+
+Meme Generator
+Meme Generator is a web-based application built using HTML, CSS, and JavaScript that allows users to create custom memes. Users can upload an image, add customizable text (with different fonts, colors, and sizes), and then download the edited meme.
+
+Features
+Image Upload: Upload an image from your local device.
+Customizable Text: Add text to the image with editable font size, font style, and color.
+Draggable Text: Drag and reposition the text on the meme canvas.
+Undo/Redo Functionality: Revert or reapply the last action (text addition, movement, or deletion).
+Download Meme: Save your edited meme as a PNG file.
+
+
+
+Future Improvements
+Enhanced UI/UX Design for better user experience.
+More font styles and customization options for text (e.g., shadows, gradients, etc.).
+Ability to add multiple images and layers to the canvas.
+Support for mobile responsiveness.
+Real-time preview as text is being edited.
+Social media integration for direct sharing of memes.
+
+
+
+
+**Live Demo:** [User Authentication Demo](https://66e09d48d438b6009e5cd31e--courageous-conkies-c1374b.netlify.app/)
+
+**Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master/memeGenrator)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## How to Clone and Use This Repository
 
