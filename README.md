@@ -19,8 +19,6 @@ This project was created to demonstrate the foundational elements of front-end w
 
 
 **Live Demo:** [User Authentication Demo](https://66e3033a09e864150078f3ae--whimsical-custard-d53082.netlify.app/) 
-<br>
-
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master)
 
 
@@ -57,6 +55,9 @@ Download Meme: Save your edited meme as a PNG file.
 ## Project 3: anime carousel
 
 **Live Demo:** [User Authentication Demo](https://vocal-cucurucho-8694ec.netlify.app/)
+
+<br>
+
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master/anime_carousel)
 
 
