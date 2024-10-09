@@ -37,7 +37,7 @@ This project was created to demonstrate the foundational elements of front-end w
 
 
 
-Meme Generator
+## Project 1: meme Generator
 Meme Generator is a web-based application built using HTML, CSS, and JavaScript that allows users to create custom memes. Users can upload an image, add customizable text (with different fonts, colors, and sizes), and then download the edited meme.
 
 Features
@@ -65,6 +65,8 @@ Social media integration for direct sharing of memes.
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master/memeGenrator)
 
 
+
+## Project 3: anime 
 
 
 
