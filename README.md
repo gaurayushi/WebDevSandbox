@@ -26,13 +26,6 @@ This project was created to demonstrate the foundational elements of front-end w
 - **Image transitions** and **smooth animations** using **CSS** and **JavaScript**.
 - **Responsive design** for different screen sizes and devices.
 
-### Technologies Used
-
-- **HTML5** for structure.
-- **CSS3** for styling and responsiveness.
-- **JavaScript (ES6)** for interactivity.
-- **Netlify** for live deployment.
-
 
 
 
@@ -49,14 +42,6 @@ Download Meme: Save your edited meme as a PNG file.
 
 
 
-Future Improvements
-Enhanced UI/UX Design for better user experience.
-More font styles and customization options for text (e.g., shadows, gradients, etc.).
-Ability to add multiple images and layers to the canvas.
-Support for mobile responsiveness.
-Real-time preview as text is being edited.
-Social media integration for direct sharing of memes.
-
 
 
 
@@ -68,11 +53,19 @@ Social media integration for direct sharing of memes.
 
 ## Project 3: anime 
 
+**Live Demo:** [User Authentication Demo] (https://vocal-cucurucho-8694ec.netlify.app/)
+**Code Directory:** [User Authentication Project on GitHub]
 
 
 
 
 
+### Technologies Used
+
+- **HTML5** for structure.
+- **CSS3** for styling and responsiveness.
+- **JavaScript (ES6)** for interactivity.
+- **Netlify** for live deployment.
 
 
 
