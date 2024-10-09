@@ -2,13 +2,6 @@
 
 **WebDevSandbox** is a repository that demonstrates the fundamentals of front-end web development using **HTML**, **CSS**, and **JavaScript**. This project serves as a sandbox environment where basic UI elements and interactivity are showcased.
 
-## Project 1: User Authentication with Transitions
-
-
-**Live Demo:** [User Authentication Demo](https://66e3033a09e864150078f3ae--whimsical-custard-d53082.netlify.app/)
-
-**Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master)
-
 
 ### Purpose
 
@@ -17,6 +10,18 @@ This project was created to demonstrate the foundational elements of front-end w
 - **Responsive layout design** using **CSS**.
 - **Form handling** and **event-driven behavior** using **JavaScript**.
 - **Aesthetic styling** and **page transitions** to enhance the user experience.
+
+
+
+
+
+## Project 1: User Authentication with Transitions
+
+
+**Live Demo:** [User Authentication Demo](https://66e3033a09e864150078f3ae--whimsical-custard-d53082.netlify.app/)
+
+**Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master)
+
 
 ### Features
 
@@ -42,19 +47,16 @@ Download Meme: Save your edited meme as a PNG file.
 
 
 
-
-
-
 **Live Demo:** [User Authentication Demo](https://66e09d48d438b6009e5cd31e--courageous-conkies-c1374b.netlify.app/)
 
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master/memeGenrator)
 
 
 
-## Project 3: anime 
+## Project 3: anime carousel
 
 **Live Demo:** [User Authentication Demo] (https://vocal-cucurucho-8694ec.netlify.app/)
-**Code Directory:** [User Authentication Project on GitHub]
+**Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master/anime_carousel)
 
 
 
