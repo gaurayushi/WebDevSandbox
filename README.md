@@ -18,7 +18,8 @@ This project was created to demonstrate the foundational elements of front-end w
 ## Project 1: User Authentication with Transitions
 
 
-**Live Demo:** [User Authentication Demo](https://66e3033a09e864150078f3ae--whimsical-custard-d53082.netlify.app/)
+**Live Demo:** [User Authentication Demo](https://66e3033a09e864150078f3ae--whimsical-custard-d53082.netlify.app/) 
+<br>
 
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master)
 
