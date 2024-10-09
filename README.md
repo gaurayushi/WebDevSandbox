@@ -56,9 +56,8 @@ Download Meme: Save your edited meme as a PNG file.
 
 ## Project 3: anime carousel
 
-**Live Demo:** [User Authentication Demo] (https://vocal-cucurucho-8694ec.netlify.app/)
+**Live Demo:** [User Authentication Demo](https://vocal-cucurucho-8694ec.netlify.app/)
 **Code Directory:** [User Authentication Project on GitHub](https://github.com/gaurayushi/WebDevSandbox/tree/master/anime_carousel)
-
 
 
 
