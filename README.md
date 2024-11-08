@@ -1,6 +1,6 @@
 # WebDevSandbox
 
-**WebDevSandbox** is a repository that demonstrates the fundamentals of front-end web development using **HTML**, **CSS**, and **JavaScript**. This project serves as a sandbox environment where basic UI elements and interactivity are showcased.
+**WebDevSandbox** is a repository that demonstrates the fundamentals of front-end web development using **HTML**, **CSS**, and **JavaScript**. **react**  This project serves as a sandbox environment where basic UI elements and interactivity are showcased.
 
 
 ### Purpose
