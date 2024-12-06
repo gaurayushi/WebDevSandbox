@@ -1,7 +1,4 @@
-![WhatsApp Image 2024-12-06 at 21 19 36](https://github.com/user-attachments/assets/7258004e-b843-419b-954f-9d52b89fb215)
-![WhatsApp Image 2024-12-06 at 21 19 36 (1)](https://github.com/user-attachments/assets/6f9f4cf1-0e0c-4766-a4d8-b048a5c944c5)
-![WhatsApp Image 2024-12-06 at 21 19 35](https://github.com/user-attachments/assets/8c5a8c04-ec31-432e-a6da-3b6ab108c494)
-# WebDevlop
+
 
 **WebDevSandbox** is a repository that demonstrates the fundamentals of front-end web development using **HTML**, **CSS**, and **JavaScript**. **react**  This project serves as a sandbox environment where basic UI elements and interactivity are showcased.
 
@@ -119,6 +116,10 @@ The Tivoli Catering Management System is a comprehensive web-based solution for 
   - **Code Directory:** [Tivoli Catering Management System on GitHub](https://github.com/gaurayushi/WebDevlop/tree/master/tivoli)
   - 
 
+![WhatsApp Image 2024-12-06 at 21 19 36](https://github.com/user-attachments/assets/7258004e-b843-419b-954f-9d52b89fb215)
+![WhatsApp Image 2024-12-06 at 21 19 36 (1)](https://github.com/user-attachments/assets/6f9f4cf1-0e0c-4766-a4d8-b048a5c944c5)
+![WhatsApp Image 2024-12-06 at 21 19 35](https://github.com/user-attachments/assets/8c5a8c04-ec31-432e-a6da-3b6ab108c494)
+# WebDevlop
 
 ## How to Clone and Use This Repository
 
