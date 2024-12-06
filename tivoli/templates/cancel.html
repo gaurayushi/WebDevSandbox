@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Canceled</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #f5f5f5, #ececec);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        
+
+        .emoji {
+            font-size: 5rem;
+            margin-bottom: 20px;
+            color: #e74c3c;
+            animation: bounce 1.5s infinite;
+            align-items: center;
+            text-align: center;
+        }
+
+        .title {
+            font-size: 2rem;
+            margin: 10px 0;
+            color: #27ae60; /* Green Color */
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .message {
+            font-size: 1rem;
+            color: #555;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-15px);
+            }
+            60% {
+                transform: translateY(-10px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="failure-container">
+        <div class="emoji">😔</div>
+        <h1 class="title">Payment Canceled</h1>
+        <p class="message">
+            Unfortunately, your payment was not successful. If this was a mistake, you can try again or contact our support team for help.
+        </p>
+    </div>
+</body>
+</html>
