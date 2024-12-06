@@ -1,4 +1,4 @@
-# WebDevSandbox
+# WebDevlop
 
 **WebDevSandbox** is a repository that demonstrates the fundamentals of front-end web development using **HTML**, **CSS**, and **JavaScript**. **react**  This project serves as a sandbox environment where basic UI elements and interactivity are showcased.
 
@@ -71,6 +71,50 @@ Download Meme: Save your edited meme as a PNG file.
 
 
 
+## Project 4:Tivoli Catering Management System
+
+The Tivoli Catering Management System is a comprehensive web-based solution for event menu planning and management. Designed to streamline the catering process, it leverages advanced technologies like artificial intelligence to deliver personalized menu recommendations based on budget, headcount, and dietary preferences.
+
+## Features
+
+- **AI-Powered Menu Recommendations:**  
+  Utilizes OpenAI's GPT-4 API to analyze user inputs and generate tailored menu suggestions.
+
+- **Dynamic Menu Customization:**  
+  Users can modify and customize menus to suit their preferences, with real-time previews and cost breakdowns.
+
+- **Dietary and Budget Analysis:**  
+  Automatically considers dietary restrictions and budget constraints to recommend optimal menus.
+
+- **Secure Payment Gateway:**  
+  Integrated Stripe API for secure and seamless transactions.
+
+- **Automated Email Notifications:**  
+  Sends order confirmations and event details via email to users and catering vendors.
+
+- **Interactive UI/UX Design:**  
+  Developed with a focus on user experience, featuring forms, carousels, and detailed reports.
+
+## Technologies Used
+
+- **Backend Development:**  
+  - Python  
+  - Flask Framework  
+  - MongoDB for database management  
+
+- **Frontend Development:**  
+  - HTML5 for structure  
+  - CSS3 for styling and responsiveness  
+  - JavaScript for interactivity  
+
+- **AI Integration:**  
+  - OpenAI's GPT-4 API for recommendation generation  
+
+- **Payment and Notifications:**  
+  - Stripe API for payment integration  
+  - SMTP for automated email notifications
+  - **Code Directory:** [Tivoli Catering Management System on GitHub](https://github.com/gaurayushi/WebDevlop/tree/master/tivoli)
+  - 
 
 
 ## How to Clone and Use This Repository
